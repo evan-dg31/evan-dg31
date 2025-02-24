@@ -1,7 +1,8 @@
 ## Hi Welcome! I’m Evan de Guzman 👋
 
 
-![Image](https://github.com/user-attachments/assets/9d769fbe-d98b-4cf0-8a74-787c0a8a6d3d)
+![Image](https://valohai.com/blog/the-three-roles-in-an-ml-team/3-roles-2-technologies.png)
+
 
 <!--
 **evan-dg31/evan-dg31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
